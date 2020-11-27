@@ -1,0 +1,8 @@
+# Cache
+__pycache__
+
+# Environment
+venv
+
+# Jupyter
+.ipynb_checkpoints
